@@ -18,7 +18,7 @@ This project transforms raw retail sales data into an interactive dashboard that
 
 ## 📊 Dashboard Preview
 
-![BlinkIT Sales Dashboard](images/blinkit-dashboard.png)
+![BlinkIT Sales Dashboard](blinkit-dashboard.png)
 
 The dashboard provides a comprehensive overview of retail sales performance through KPI cards, outlet analysis, category performance, and interactive filtering capabilities.
 
